@@ -1,0 +1,84 @@
+   body {
+       background-image: url("cream.jpg");
+   }
+   
+   h1 {
+    font-family: "Georgia", serif;
+       font-size: 50px;
+       margin: 25px 250px 75px
+       
+   }
+
+   h2 {
+    font-family: "Georgia", serif;
+       font-size: 40px;
+       margin: 25px 400px 5px
+   }
+
+   h3 {
+       font-family: "Georgia", serif;
+       font-size: 35;
+       margin: 50px 250px 0px;
+
+   }
+
+   h6 {
+    font-size: 12px;
+    margin: 25px 250px 0px
+
+   }
+   p {
+    font-family: "Georgia", serif;
+       font-size: 20px;
+       color: black;
+       margin: 10px 250px 20px
+   }
+
+* {
+    box-sizing: border-box;
+}
+.box {
+    color:white;
+    font-size: 15px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    padding:10px;
+  
+}
+  
+  .box1 { background:#c22b38;}
+  .box2 { background:#dfe206;}
+  .box3 { background:#ff7f50;}
+
+.navigation {
+    display: flex;
+
+}
+
+.head1 {
+    margin: 0px 500px 0px
+}
+.escofimg {
+    margin: 25px 450px 5px
+}
+.home {
+    margin: 25px 100px 0px
+}
+
+.source {
+    margin: 25px 450px 0px
+}
+
+.iconic {
+    margin: 25px 450px 0px
+}
+/* define classes with . eg */
+   /* .large {
+       font-size: 10000px
+   }
+    */
+
+    /* then in html say what is a class by...
+
+
+    <p class="large"> Ipsos Libreay </p> */
